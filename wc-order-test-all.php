@@ -4,7 +4,7 @@
  * Plugin URI:  https://github.com/ikamal7/wc-order-test-all
  * Description: A payment gateway plugin for WooCommerce to see if your checkout works.
  * Author:      Kamal Hosen
- * Author URI:  https://kamal.pw/
+ * Author URI:  https://kamalhosen.xyz/
  * Language URI: /languages
  * text-domain: wc_order_test
  * Version:     1.0

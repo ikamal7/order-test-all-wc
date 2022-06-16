@@ -1,10 +1,10 @@
 === Order Test For All for WooCommerce ===
 Contributors: ikamal
-Donate link: https://kamal.pw/
+Donate link: https://kamalhosen.xyz/
 Tags: wc order test, wc order, woocommerce, woocommerce checkout, woocommerce order, woocommerce orders
 Requires at least: 3.0.1
 Requires PHP: 5.6
-Tested up to: 5.8
+Tested up to: 6.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,7 +25,7 @@ We are not collecting any of your personal data or any kind of logs. So there wi
 
 ### **ABOUT THE MAKER**
 
-I am [Kamal Hosen](https://kamal.pw/), a Bangladeshi full-stack WordPress developer and free and open source enthusiast. As Order Test For All for WooCommerce is an open-source project, you can encourage me by giving me a [star on GitHub](https://github.com/ikamal7/wc-order-test-all). Nothing also, you can contact me on my [LinkedIn](https://www.linkedin.com/in/khosen) for consultation or just to say hello. I love talking to new people. So don’t hesitate.
+I am [Kamal Hosen](https://kamalhosen.xyz/), a Bangladeshi full-stack WordPress developer and free and open source enthusiast. As Order Test For All for WooCommerce is an open-source project, you can encourage me by giving me a [star on GitHub](https://github.com/ikamal7/wc-order-test-all). Nothing also, you can contact me on my [LinkedIn](https://www.linkedin.com/in/khosen) for consultation or just to say hello. I love talking to new people. So don’t hesitate.
 
 == Installation ==
 
